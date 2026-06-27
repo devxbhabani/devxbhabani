@@ -11,7 +11,7 @@ I have hands-on experience in both **frontend and backend development**, along w
 
 I have worked on projects like:
 
-- A **movie watching platform like IMDb**
+- A **movie review platform like IMDb**
 - A **news application**
 - A **notebook app for daily life tracking**
 - An **e-commerce website like More**
