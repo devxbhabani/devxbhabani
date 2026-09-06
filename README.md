@@ -12,11 +12,10 @@ I have hands-on experience in both **frontend and backend development**, along w
 
 I have worked on projects like:
 
-- **[MakeLyft](https://github.com/devxbhabani/makelyft)** — A full-stack carpooling & ride-sharing platform built with React, Node.js, and Supabase/PostgreSQL. Features real-time tracking via Socket.io, Razorpay payment gateway integration, and Ollama AI-powered assistance.
-- **[AyuScan](https://github.com/devxbhabani/AyuScan)** — An advanced IoT healthcare wearable & real-time monitoring dashboard (ESP32, Python, React, WebSockets/BLE) featuring AI anomaly detection and instant emergency alerts.
-- **[Restaurant-POS-System](https://github.com/devxbhabani/Restaurant-POS-System)** — Real-time full-stack POS & QR-Code ordering platform (React, Node.js, Socket.io, MongoDB) with live Kitchen Display System (KDS) and table management.
-- **[MovieLand](https://github.com/devxbhabani/movieLand)** — A full-stack MERN entertainment platform for discovering movies & series with rich metadata, ratings, and responsive search.
-- **[Image-Based Calorie Estimator](https://github.com/devxbhabani/Image-Based-Calorie-Estimator)** — AI/Computer Vision project for automated dietary tracking and food calorie estimation.
+- A **carpooling and ride-sharing platform like Lyft** (MakeLyft)
+- A **real-time restaurant POS and QR-ordering system**(Atheria)
+- A **movie review and discovery platform like IMDb** (MovieLand)
+- An **e-commerce web application with end-to-end shopping experience**
 
 <p align="center">
   <i>"I don’t always test my code… but when I do, I do it in production."</i>
