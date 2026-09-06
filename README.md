@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 I'm a **Full-Stack Developer (MERN)** and **AI & Machine Learning Enthusiast** passionate about engineering modern, scalable, and intelligent applications.  
-I enjoy building **real-world projects that solve practical problems and improve user experience.**
+I specialize in building end-to-end web architectures, real-time systems, and practical tools that solve real-world problems. Whether it's architecting live IoT monitoring systems, engineering smart ride-sharing platforms, or training computer vision models, I enjoy turning complex ideas into clean, intuitive products.
 
 I have hands-on experience in both **frontend and backend development**, along with strong programming fundamentals.
 
