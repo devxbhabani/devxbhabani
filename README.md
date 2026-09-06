@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-I’m a passionate student currently learning **Web Development, MERN Stack, and Artificial Intelligence & Machine Learning**.  
+I'm a **Full-Stack Developer (MERN)** and **AI & Machine Learning Enthusiast** passionate about engineering modern, scalable, and intelligent applications.  
 I enjoy building **real-world projects that solve practical problems and improve user experience.**
 
 I have hands-on experience in both **frontend and backend development**, along with strong programming fundamentals.
