@@ -4,17 +4,19 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-I'm a **Full-Stack Developer (MERN)** and **AI & Machine Learning Enthusiast** passionate about engineering modern, scalable, and intelligent applications.  
+I'm a **Full-Stack Developer (MERN)** and **AI & Machine Learning Enthusiast** passionate about engineering modern, scalable, and intelligent applications.
+
 I specialize in building end-to-end web architectures, real-time systems, and practical tools that solve real-world problems. Whether it's architecting live IoT monitoring systems, engineering smart ride-sharing platforms, or training computer vision models, I enjoy turning complex ideas into clean, intuitive products.
 
 I have hands-on experience in both **frontend and backend development**, along with strong programming fundamentals.
 
 I have worked on projects like:
 
-- A **movie review platform like IMDb**
-- A **news application**
-- A **notebook app for daily life tracking**
-- An **e-commerce website like More**
+- **[MakeLyft](https://github.com/devxbhabani/makelyft)** — A full-stack carpooling & ride-sharing platform built with React, Node.js, and Supabase/PostgreSQL. Features real-time tracking via Socket.io, Razorpay payment gateway integration, and Ollama AI-powered assistance.
+- **[AyuScan](https://github.com/devxbhabani/AyuScan)** — An advanced IoT healthcare wearable & real-time monitoring dashboard (ESP32, Python, React, WebSockets/BLE) featuring AI anomaly detection and instant emergency alerts.
+- **[Restaurant-POS-System](https://github.com/devxbhabani/Restaurant-POS-System)** — Real-time full-stack POS & QR-Code ordering platform (React, Node.js, Socket.io, MongoDB) with live Kitchen Display System (KDS) and table management.
+- **[MovieLand](https://github.com/devxbhabani/movieLand)** — A full-stack MERN entertainment platform for discovering movies & series with rich metadata, ratings, and responsive search.
+- **[Image-Based Calorie Estimator](https://github.com/devxbhabani/Image-Based-Calorie-Estimator)** — AI/Computer Vision project for automated dietary tracking and food calorie estimation.
 
 <p align="center">
   <i>"I don’t always test my code… but when I do, I do it in production."</i>
